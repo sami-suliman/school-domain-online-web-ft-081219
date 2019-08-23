@@ -21,6 +21,10 @@ class School
   def grade(grade)
     @roster[grade]
   end 
+  
+  def sort(grade, names) 
+    
+  end
 end 
 
 #school = School.new("Bayside High School")
