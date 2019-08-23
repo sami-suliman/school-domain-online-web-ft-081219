@@ -17,6 +17,8 @@ class School
       @roster[grade] << student
     end 
   end 
+  
+  def 
 end 
 
 #school = School.new("Bayside High School")
