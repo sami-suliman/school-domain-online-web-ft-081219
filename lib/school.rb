@@ -23,7 +23,7 @@ class School
   end 
   
   def sort(grade, names) 
-    
+    @roster
   end
 end 
 
